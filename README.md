@@ -4,9 +4,8 @@
 
 **Transforming Raw Data into Actionable Insights through Modern Data Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjemu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkmanjemu@gmail.com)
 
 ---
 
@@ -15,11 +14,11 @@
 ```python
 class DataEngineer:
     def __init__(self):
-        self.name = "Your Name"
-        self.role = "Senior Data Engineer"
-        self.location = "Your Location"
-        self.languages = ["Python", "SQL", "Scala", "Java"]
-        self.cloud_platforms = ["AWS", "Azure", "GCP"]
+        self.name = "Tamuka Manjemu"
+        self.role = "Data Engineer"
+        self.location = "Raleigh, North Carolina, USA"
+        self.languages = ["Python", "SQL", "Java"]
+        self.cloud_platforms = ["AWS", "Azure"]
         self.specialties = [
             "Data Pipeline Architecture",
             "Real-time Stream Processing", 
@@ -45,7 +44,6 @@ me = DataEngineer()
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -200,27 +198,6 @@ me = DataEngineer()
 
 ---
 
-## 🏆 Certifications & Achievements
-
-### **AWS Certifications**
-- ☁️ **AWS Certified Solutions Architect - Professional**
-- 📊 **AWS Certified Big Data - Specialty**
-- 🔧 **AWS Certified DevOps Engineer - Professional**
-- 🛡️ **AWS Certified Security - Specialty**
-
-### **Azure Certifications**
-- 🔷 **Azure Data Engineer Associate (DP-203)**
-- 🔷 **Azure Solutions Architect Expert (AZ-305)**
-- 🔷 **Azure Security Engineer Associate (AZ-500)**
-
-### **Professional Certifications**
-- 🎯 **Databricks Certified Data Engineer Professional**
-- ⚡ **Confluent Certified Developer for Apache Kafka**
-- 🏅 **Snowflake SnowPro Core Certification**
-- 🔥 **Apache Spark Developer Certification**
-
----
-
 ## 💡 Current Learning & Research
 
 - 🔥 **Lakehouse Architecture**: Delta Lake, Apache Iceberg, table formats
@@ -240,11 +217,6 @@ me = DataEngineer()
 - [Data Quality at Scale: Lessons from Production Systems](https://yourblog.com/data-quality-production)
 - [Multi-Cloud Data Strategy: Architecture Patterns and Best Practices](https://yourblog.com/multicloud-data-strategy)
 - [Optimizing Spark Jobs: Performance Tuning Guide](https://yourblog.com/spark-performance-optimization)
-
-### **Conference Talks & Workshops**
-- **Data + AI Summit 2024**: "Scaling Real-time Analytics with Apache Kafka"
-- **AWS re:Invent 2023**: "Building Cost-Effective Data Lakes on AWS"
-- **Strata Data Conference**: "MLOps: From Notebook to Production"
 
 ---
 
@@ -271,15 +243,7 @@ I'm passionate about solving complex data challenges and always excited to discu
 - 🚀 **Innovation**: Exploring cutting-edge technologies and methodologies
 - 🎓 **Mentoring**: Helping others grow in their data engineering journey
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjemu)
+[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkmanjemu@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamukka)
 [![Medium](https://img.shields.io/badge/-Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
-
----
-
-**💡 Fun Fact:** I once optimized a Spark job that reduced processing time from 8 hours to 45 minutes, saving the company $200K annually in compute costs! ⚡
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow)
-![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue)
