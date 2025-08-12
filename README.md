@@ -1,249 +1,208 @@
-# 🚀 Data Engineer | Building Scalable Data Solutions
+🚀 Firmware Engineer | Building AI-Integrated Embedded Systems
 
-![Data Engineering](https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Building+Scalable+Pipelines;Cloud+Architecture+Expert;Real-time+Processing+Specialist&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+Crafting Efficient Firmware for Smart Devices with Real-Time Data Processing and Edge AI
 
-**Transforming Raw Data into Actionable Insights through Modern Data Engineering**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjemu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkmanjemu@gmail.com)
+👨‍💻 About Me
+class FirmwareEngineer {
+public:
+    FirmwareEngineer() {
+        name = "Tamuka Manjemu";
+        role = "Firmware Engineer & Edge AI Developer";
+        location = "Raleigh, North Carolina, USA";
+        languages = {"C++", "Python", "C", "SQL"};
+        platforms = {"Arduino", "ESP32", "Raspberry Pi", "AWS IoT"};
+        specialties = {
+            "Embedded Systems Design",
+            "Edge AI Integration",
+            "Real-time Sensor Data Processing",
+            "IoT Data Pipelines",
+            "Firmware Optimization"
+        };
+    }
 
----
-
-## 👨‍💻 About Me
-
-```python
-class DataEngineer:
-    def __init__(self):
-        self.name = "Tamuka Manjemu"
-        self.role = "Data Engineer"
-        self.location = "Raleigh, North Carolina, USA"
-        self.languages = ["Python", "SQL", "Java"]
-        self.cloud_platforms = ["AWS", "Azure"]
-        self.specialties = [
-            "Data Pipeline Architecture",
-            "Real-time Stream Processing", 
-            "Cloud Data Platforms",
-            "Data Modeling & Warehousing",
-            "MLOps & Data Science Pipelines"
-        ]
-    
-    def current_focus(self):
+    map<string, vector<string>> current_focus() {
         return {
-            "learning": ["Delta Lake", "DataOps", "Kubernetes"],
-            "building": ["Real-time Analytics Platform", "Multi-cloud Data Lake"],
-            "optimizing": ["Spark Performance", "Cost Efficiency", "Data Quality"]
-        }
+            {"learning", {"TinyML", "RTOS", "FPGA Programming"}},
+            {"building", {"AI-Integrated IoT Device", "Real-time Sensor Pipeline"}},
+            {"optimizing", {"Firmware Performance", "Power Efficiency", "Data Quality"}}
+        };
+    }
 
-me = DataEngineer()
-```
+private:
+    string name, role, location;
+    vector<string> languages, platforms, specialties;
+};
 
----
+FirmwareEngineer me;
 
-## 🛠️ Technology Stack
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+🛠️ Technology Stack
+Programming Languages
 
-### **Big Data & Processing Frameworks**
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=orange)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Beam](https://img.shields.io/badge/Apache_Beam-EE8700?style=for-the-badge&logo=apache&logoColor=white)
+Firmware & Embedded Platforms
 
-### **Cloud Platforms & Services**
+AI/ML Frameworks
 
-**AWS**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- S3, EMR, Glue, Redshift, Kinesis
-- Lambda, Step Functions, CloudFormation
-- IAM, VPC, CloudWatch
+IoT & Streaming
 
-**Azure**
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-- Data Factory, Synapse Analytics, Event Hubs
-- Databricks, Data Lake Storage, Cosmos DB
-- Functions, Logic Apps, Resource Manager
+Cloud Platforms & Services
+AWS
 
-### **Databases & Storage**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+AWS IoT Core, S3, Lambda, SNS
+CloudFormation, IAM, CloudWatch
 
-### **DevOps & Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Azure
 
----
+Azure IoT Hub, Functions, Event Hubs
+Data Lake Storage, Resource Manager
 
-## 🏗️ Core Competencies
+Databases & Storage
 
-### **Data Pipeline Engineering**
-- **ETL/ELT Design**: Batch processing, real-time streaming, change data capture
-- **Workflow Orchestration**: Apache Airflow, Prefect, Azure Data Factory
-- **Stream Processing**: Kafka Streams, Spark Streaming, Apache Flink
-- **Data Integration**: API integrations, database replication, file processing
-- **Pipeline Monitoring**: Logging, alerting, performance optimization
+DevOps & Infrastructure
 
-### **Cloud Data Architecture**
-- **Data Lakes**: S3, ADLS Gen2, structured/semi-structured/unstructured data
-- **Data Warehouses**: Snowflake, Redshift, BigQuery, Synapse Analytics
-- **Lakehouse Architecture**: Delta Lake, Apache Iceberg, Apache Hudi
-- **Serverless Computing**: AWS Lambda, Azure Functions, event-driven architecture
-- **Infrastructure as Code**: Terraform, CloudFormation, ARM templates
 
-### **Data Modeling & Quality**
-- **Modeling Techniques**: Star schema, snowflake schema, data vault
-- **Partitioning Strategies**: Time-based, hash-based, range partitioning
-- **Data Quality Framework**: Great Expectations, custom validation rules
-- **Schema Evolution**: Backward/forward compatibility, versioning
-- **Data Governance**: Lineage tracking, cataloging, access control
+🏗️ Core Competencies
+Firmware Development
 
-### **Performance & Optimization**
-- **Spark Optimization**: Memory tuning, partition optimization, caching strategies
-- **Query Performance**: Index optimization, query plan analysis, cost-based optimization
-- **Resource Management**: Cluster autoscaling, cost optimization, capacity planning
-- **Monitoring & Observability**: Metrics collection, distributed tracing, alerting
+Embedded Systems: Firmware for microcontrollers (ESP32, Arduino, STM32) with real-time constraints.
+Data Acquisition: Sensor data collection and processing, optimized for low memory (~KB range).
+Real-time Processing: Event-driven firmware with interrupt handling and RTOS scheduling.
+Communication Protocols: MQTT, I2C, SPI, UART for device-cloud integration.
+Firmware Optimization: Power efficiency, memory management, and latency reduction.
 
----
+Edge AI Integration
 
-## 🚀 Featured Projects
+Model Deployment: Deploying TensorFlow Lite Micro models on constrained devices.
+Data Preprocessing: On-device ETL pipelines for sensor data, inspired by Spark streaming.
+Optimization: Model quantization and pruning for <100KB memory footprint.
+Applications: Anomaly detection, gesture recognition, predictive maintenance.
 
-### 🏭 **Real-Time Analytics Platform**
-**Technologies:** Apache Kafka | Spark Streaming | AWS EMR | Python | Docker | Kubernetes
+IoT Data Pipelines
 
-- Built scalable platform processing **100M+ events per day** with sub-100ms latency
-- Implemented real-time fraud detection reducing false positives by 60%
-- Designed auto-scaling architecture handling traffic spikes up to 10x normal load
-- Achieved 99.95% uptime with comprehensive monitoring and alerting
+Streaming: MQTT-based streaming, akin to Kafka, for real-time sensor data.
+Backend Processing: PySpark for cloud-based analytics of device data.
+Cloud Integration: AWS IoT Core, Azure IoT Hub for hybrid device-cloud systems.
+Data Quality: On-device validation (e.g., CRC checks) and cloud-based alerts (SNS).
 
-**Key Achievements:**
-- Reduced infrastructure costs by 40% through optimization
-- Processed peak loads of 500K events/second during Black Friday
-- Implemented exactly-once processing guarantees
+Performance & Optimization
 
-[🔗 View Repository](https://github.com/yourusername/realtime-analytics-platform) | [📊 Architecture Diagram](link-to-diagram)
+Firmware Tuning: Optimize for low-power (e.g., sleep modes) and high throughput.
+Data Efficiency: Compress and batch sensor data, reducing bandwidth by 50%.
+Monitoring: Device health metrics and cloud-based observability (CloudWatch).
+Scalability: Manage fleets of IoT devices with automated provisioning.
 
----
 
-### ☁️ **Multi-Cloud Data Lake Architecture**
-**Technologies:** AWS S3 | Azure Data Lake | Terraform | Apache Airflow | Delta Lake
+🚀 Featured Projects
+🛠️ AI-Integrated IoT Sensor System
+Technologies: ESP32 | C++ | TensorFlow Lite Micro | MQTT | PySpark | AWS IoT Core | Docker
 
-- Designed hybrid data lake serving 200+ data sources across multiple business units
-- Implemented automated data cataloging and governance for 50TB+ of data
-- Built disaster recovery with 99.9% availability and RPO < 15 minutes
-- Created self-service data access reducing analyst query time by 70%
+Developed firmware for ESP32 to process accelerometer data, running a TinyML model for real-time gesture recognition.
+Streamed processed data via MQTT to AWS IoT Core, with PySpark backend handling 10K+ events/minute.
+Achieved 95% accuracy in on-device anomaly detection with <100KB memory usage.
+Built Streamlit dashboard for real-time visualization of sensor metrics.
 
-**Key Features:**
-- Cross-cloud data replication and synchronization
-- Automated schema evolution and backward compatibility
-- Fine-grained access control and audit logging
-- Cost optimization saving $500K annually
+Key Achievements:
 
-[🔗 View Repository](https://github.com/yourusername/multicloud-data-lake) | [📋 Case Study](link-to-case-study)
+Reduced power consumption by 30% using sleep modes.
+Processed 1M+ sensor events daily with sub-50ms latency.
+Implemented data quality checks, detecting 98% of anomalies.
 
----
+🔗 View Repository | 📊 Architecture Diagram
 
-### 🤖 **MLOps Pipeline Framework**
-**Technologies:** MLflow | Spark MLlib | Kubernetes | Apache Airflow | Python
+📡 Real-Time Environmental Monitoring Device
+Technologies: Arduino | C++ | MQTT | PySpark | AWS S3 | PostgreSQL | Streamlit
 
-- Created end-to-end ML pipeline with automated feature engineering and model training
-- Reduced model deployment time from 3 weeks to 2 hours
-- Implemented A/B testing framework for model validation in production
-- Built automated retraining pipeline with drift detection
+Wrote firmware for Arduino to collect temperature/humidity data, with on-device ETL (filtering, aggregation).
+Streamed data to AWS IoT via MQTT, processed with PySpark for analytics.
+Reduced data transmission by 40% through compression in firmware.
+Deployed dashboard and SNS alerts for real-time monitoring and anomalies.
 
-**Pipeline Features:**
-- Automated feature store with real-time and batch features
-- Model versioning and experiment tracking
-- Canary deployments with automated rollback
-- Performance monitoring and alerting
+Key Features:
 
-[🔗 View Repository](https://github.com/yourusername/mlops-pipeline-framework) | [📈 Metrics Dashboard](link-to-dashboard)
+On-device data validation ensuring 99% data accuracy.
+Scalable backend handling 500K+ events/day.
+Dockerized deployment for reproducibility.
 
----
+🔗 View Repository | 📋 Case Study
 
-### 🛡️ **Enterprise Data Quality Framework**
-**Technologies:** Great Expectations | Apache Spark | Grafana | PostgreSQL | Python
+🤖 Edge AI Gesture Recognition System
+Technologies: Raspberry Pi | TensorFlow Lite | C++ | Python | AWS IoT | Spark MLlib
 
-- Built comprehensive data quality monitoring for 1000+ data sources
-- Implemented anomaly detection reducing data quality issues by 85%
-- Created self-service validation rules for data stewards
-- Developed real-time alerting system for critical data quality violations
+Built firmware for Raspberry Pi to run a CNN-based gesture recognition model (adapted from prior CNN-LSTM work).
+Processed 1K+ sensor inputs/second with 90% prediction accuracy on-device.
+Integrated with AWS IoT for cloud-based analytics using Spark MLlib.
+Optimized model to fit 128KB memory, reducing inference time by 25%.
 
-**Quality Metrics:**
-- Data completeness, accuracy, consistency, and timeliness monitoring
-- Automated data profiling and statistical analysis
-- Custom business rules engine with 500+ validation rules
-- Integration with downstream systems for quality gates
+Pipeline Features:
 
-[🔗 View Repository](https://github.com/yourusername/data-quality-framework) | [📊 Quality Dashboard](link-to-dashboard)
+Real-time gesture classification with minimal latency.
+Automated model retraining pipeline in the cloud.
+Device-cloud synchronization with MQTT.
 
----
+🔗 View Repository | 📈 Metrics Dashboard
 
-## 📈 GitHub Statistics
+🛡️ Firmware Data Quality Framework
+Technologies: STM32 | C++ | SQLite | AWS SNS | Python | Docker
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+Developed firmware-based data quality checks for sensor streams, ensuring 98% data integrity.
+Stored validated data in SQLite on-device, synced to AWS S3 via MQTT.
+Implemented real-time alerts for anomalies (e.g., sensor failures) using AWS SNS.
+Reduced data corruption errors by 85% through CRC and filtering.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&langs_count=8)
+Quality Metrics:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+On-device validation for completeness and consistency.
+Automated logging of device health metrics.
+Integration with cloud pipelines for extended analytics.
 
----
+🔗 View Repository | 📊 Quality Dashboard
 
-## 💡 Current Learning & Research
+📈 GitHub Statistics
 
-- 🔥 **Lakehouse Architecture**: Delta Lake, Apache Iceberg, table formats
-- 🤖 **MLOps at Scale**: Feature stores, model monitoring, automated retraining
-- 🌐 **Event-Driven Architecture**: Event sourcing, CQRS, microservices
-- 📊 **DataOps**: Git-based workflows, testing strategies, deployment automation
-- 🔐 **Data Privacy**: GDPR compliance, data anonymization, privacy-preserving analytics
-- 🎯 **Stream Processing**: Apache Flink, Kafka Streams, complex event processing
 
----
 
-## 📚 Knowledge Sharing
 
-### **Technical Blog Posts**
-- [Building Fault-Tolerant Data Pipelines with Apache Spark](https://yourblog.com/fault-tolerant-spark-pipelines)
-- [Implementing Real-time Analytics with Kafka and ClickHouse](https://yourblog.com/kafka-clickhouse-analytics)
-- [Data Quality at Scale: Lessons from Production Systems](https://yourblog.com/data-quality-production)
-- [Multi-Cloud Data Strategy: Architecture Patterns and Best Practices](https://yourblog.com/multicloud-data-strategy)
-- [Optimizing Spark Jobs: Performance Tuning Guide](https://yourblog.com/spark-performance-optimization)
+💡 Current Learning & Research
 
----
+🔥 Edge AI: TinyML, TensorFlow Lite Micro, model optimization for microcontrollers.
+🤖 RTOS: FreeRTOS for real-time firmware scheduling.
+📡 IoT Protocols: MQTT, CoAP, LwM2M for device communication.
+🛠️ Firmware Optimization: Low-power design, memory management, interrupt handling.
+🔐 Secure Firmware: Encryption, secure boot, OTA updates.
+🎯 FPGA Programming: VHDL/Verilog for hardware acceleration.
 
-## 🎯 Professional Philosophy
 
-> *"Great data engineering isn't just about moving data from point A to point B. It's about building reliable, scalable, and maintainable systems that empower organizations to make data-driven decisions with confidence."*
+📚 Knowledge Sharing
+Technical Blog Posts
 
-### **Core Principles**
-- **Reliability First**: Build systems that work consistently under all conditions
-- **Scalability by Design**: Architect for growth from day one
-- **Data Quality**: Garbage in, garbage out - quality is non-negotiable
-- **Automation**: If you do it twice, automate it
-- **Monitoring Everything**: You can't improve what you don't measure
-- **Documentation**: Code is written once, read many times
+Building AI-Integrated Firmware for IoT Devices
+Real-time Sensor Data Processing with ESP32
+Optimizing TinyML Models for Microcontrollers
+Bridging Firmware and Cloud with MQTT and AWS IoT
+Data Quality in Embedded Systems: Best Practices
 
----
 
-## 🤝 Let's Connect!
+🎯 Professional Philosophy
 
-I'm passionate about solving complex data challenges and always excited to discuss:
-- 🏗️ **Architecture Design**: Scalable data platform architectures
-- ⚡ **Performance Optimization**: Making systems faster and more efficient  
-- 🔍 **Problem Solving**: Tackling unique data engineering challenges
-- 🚀 **Innovation**: Exploring cutting-edge technologies and methodologies
-- 🎓 **Mentoring**: Helping others grow in their data engineering journey
+"Great firmware engineering blends efficient hardware control with intelligent data processing, enabling smart devices to deliver real-time insights with minimal resources."
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjemu)
-[![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkmanjemu@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamukka)
-[![Medium](https://img.shields.io/badge/-Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+Core Principles
+
+Reliability First: Ensure firmware performs under all conditions.
+Efficiency by Design: Optimize for power, memory, and speed.
+Data Integrity: Validate sensor data at the source.
+Scalability: Design for fleets of IoT devices.
+Automation: Streamline firmware updates and testing.
+Monitoring: Track device health and performance.
+
+
+🤝 Let's Connect!
+I'm passionate about building intelligent, efficient firmware for next-generation devices and always excited to discuss:
+
+🛠️ Firmware Design: Embedded systems and real-time processing.
+⚡ Edge AI: Deploying ML on resource-constrained devices.
+🔍 IoT Pipelines: Bridging hardware and cloud analytics.
+🚀 Innovation: Exploring new hardware-AI integrations.
+🎓 Mentoring: Helping others enter firmware engineering.
+
