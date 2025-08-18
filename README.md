@@ -146,7 +146,7 @@ CurrentFocus_t current_focus = {
 
 ## 🚀 Featured Projects
 
-### 🏥 **Medical Device Firmware Platform**
+### 🏥 **Medical Device Firmware Platform (Current Development)**
 **Technologies:** ARM Cortex-M4 | FreeRTOS | C | Bluetooth LE | AES Encryption
 
 - Developed IEC 62304 compliant firmware for FDA Class II medical devices
@@ -154,7 +154,7 @@ CurrentFocus_t current_focus = {
 - Built secure data transmission reducing security vulnerabilities by 95%
 - Achieved **99.99% uptime** in 24/7 critical care environments
 
-**Key Achievements:**
+**Expected Deliveries:**
 - Reduced power consumption by 60% extending battery life to 7 days
 - Processed 1000+ sensor readings per second with deterministic timing
 - Implemented fail-safe mechanisms with automatic fault recovery
@@ -163,31 +163,13 @@ CurrentFocus_t current_focus = {
 
 ---
 
-### 🏭 **Industrial IoT Gateway Firmware**
-**Technologies:** STM32H7 | Zephyr RTOS | Modbus | Ethernet | LoRaWAN
-
-- Built multi-protocol gateway connecting 500+ industrial sensors and actuators
-- Implemented edge computing reducing cloud data transfer by 80%
-- Designed redundant communication paths with automatic failover
-- Created remote firmware update system with rollback capability
-
-**Key Features:**
-- Support for 10+ industrial protocols (Modbus, CAN, Profinet)
-- Real-time data processing and local decision making
-- Secure encrypted communication with certificate-based authentication
-- Web-based configuration interface and remote diagnostics
-
-[🔗 View Repository](https://github.com/yourusername/industrial-iot-gateway) | [📋 Case Study](link-to-case-study)
-
----
-
-### 🚗 **Automotive ECU Framework**
+### 🚗 **Automotive ECU Framework (Future)**
 **Technologies:** ARM Cortex-R5 | AUTOSAR | C++ | CAN-FD | ISO 26262
 
-- Developed ASIL-D compliant firmware for safety-critical automotive applications
-- Implemented adaptive cruise control algorithms with **<5ms loop time**
-- Built diagnostic framework supporting UDS protocol over CAN
-- Created bootloader with secure flash programming and verification
+- Developing ASIL-D compliant firmware for safety-critical automotive applications
+- Implementing adaptive cruise control algorithms with **<5ms loop time**
+- Building diagnostic framework supporting UDS protocol over CAN
+- Creating bootloader with secure flash programming and verification
 
 **Safety Features:**
 - Dual-core lockstep processing for fault detection
@@ -197,23 +179,6 @@ CurrentFocus_t current_focus = {
 
 [🔗 View Repository](https://github.com/yourusername/automotive-ecu-framework) | [📈 Safety Report](link-to-report)
 
----
-
-### 🌐 **Smart Home Device Ecosystem**
-**Technologies:** ESP32 | Matter Protocol | WiFi 6 | Python | Over-the-Air Updates
-
-- Built unified firmware platform supporting 20+ smart home device types
-- Implemented Matter/Thread protocol stack for seamless interoperability
-- Developed cloud-native OTA update system serving 100K+ devices
-- Created energy-efficient algorithms extending battery devices to 2+ years
-
-**Ecosystem Features:**
-- Cross-platform compatibility (Apple HomeKit, Google Home, Alexa)
-- Mesh networking with self-healing capabilities
-- Advanced security with rotating encryption keys
-- Machine learning inference at the edge for predictive automation
-
-[🔗 View Repository](https://github.com/yourusername/smart-home-firmware) | [📊 Performance Dashboard](link-to-dashboard)
 
 ---
 
@@ -235,17 +200,6 @@ CurrentFocus_t current_focus = {
 - 🌐 **RISC-V**: Open-source processor architecture and ecosystem
 - ⚡ **Ultra-Low Power**: Energy harvesting, advanced sleep modes, power gating
 - 🎯 **Rust for Embedded**: Memory-safe systems programming, Embassy framework
-
----
-
-## 📚 Knowledge Sharing
-
-### **Technical Blog Posts**
-- [Building Reliable Real-Time Systems with FreeRTOS](https://yourblog.com/freertos-reliability-guide)
-- [Optimizing Power Consumption in Battery-Powered Devices](https://yourblog.com/power-optimization-techniques)
-- [Implementing Secure Boot and OTA Updates](https://yourblog.com/secure-firmware-updates)
-- [Matter Protocol: The Future of Smart Home Interoperability](https://yourblog.com/matter-protocol-guide)
-- [Debugging Embedded Systems: Tools and Techniques](https://yourblog.com/embedded-debugging-guide)
 
 ---
 
@@ -274,5 +228,3 @@ I'm passionate about embedded systems and always excited to discuss:
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjemu)
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tkmanjemu@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tamukka)
-[![Medium](https://img.shields.io/badge/-Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
